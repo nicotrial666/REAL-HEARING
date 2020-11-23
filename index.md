@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[l.huizinga@amsterdamumc.nl](url) and ![Image](src)
+[Laura's email](l.huizinga@amsterdamumc.nl) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
