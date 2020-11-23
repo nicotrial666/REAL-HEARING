@@ -1,10 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to the REAL-HEARING project.
 
 You can use the [editor on GitHub](https://github.com/nicotrial666/realhearingtrial1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Hello and welcome to the REAL-HEARING project.
+1. Putting on the VU-AMS equipment
+2. Microphone set up
+3. Smartphone troubleshooting 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+For further information about the device see [Additional VU-AMS information](https://www.vu-ams.nl/vu-ams/)
 
 ### Markdown
 
