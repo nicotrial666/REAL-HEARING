@@ -1,5 +1,7 @@
 ## Welcome to the REAL-HEARING project.
 
+![1625683](https://user-images.githubusercontent.com/74911910/99975017-f9de1d80-2da1-11eb-8594-6667997cff0f.png)
+
 You can use the [editor on GitHub](https://github.com/nicotrial666/realhearingtrial1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 1. Putting on the VU-AMS equipment
