@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/nicotrial666/realhearingtrial1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Hello world, welcome to the REAL-HEARING project.
+Hello and welcome to the REAL-HEARING project.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[l.huizinga@amsterdamumc.nl](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
