@@ -1,6 +1,6 @@
-## Welcome to the REAL-HEARING project.
+## Welcome to the REAL-HEARING project.  
 
-![1625683](https://user-images.githubusercontent.com/74911910/99975017-f9de1d80-2da1-11eb-8594-6667997cff0f.png)
+![pasted image 0](https://user-images.githubusercontent.com/74911910/99976346-a2d94800-2da3-11eb-8d7e-5a16f4d08ae6.png)
 
 You can use the [editor on GitHub](https://github.com/nicotrial666/realhearingtrial1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
