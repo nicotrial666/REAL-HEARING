@@ -4,6 +4,7 @@
 
 You can use the [editor on GitHub](https://github.com/nicotrial666/realhearingtrial1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
+hiii
 1. Putting on the VU-AMS equipment
 2. Microphone set up
 3. Smartphone troubleshooting 
