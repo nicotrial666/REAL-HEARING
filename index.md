@@ -26,6 +26,8 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Laura's email](l.huizinga@amsterdamumc.nl) and ![Image](src)
+
+[VU AMS software] (http://www.vu-ams.nl/vu-ams/)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
