@@ -9,7 +9,7 @@ hiii
 2. Microphone set up
 3. Smartphone troubleshooting 
 
-For further information about the device see [Additional VU-AMS information](https://www.vu-ams.nl/vu-ams/)
+For further information about the device see [Additional VU-AMS information](http://www.vu-ams.nl/vu-ams/)
 
 ### Markdown
 
